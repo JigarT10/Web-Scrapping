@@ -1,2 +1,2 @@
 # Web Scrapping
-Scrapped data by using `BeautifulSoup` of 9300+ companies from 300+ pages from [www.ambitionbox.com]
+Scrapped data by using `BeautifulSoup` of 9300+ companies from 300+ pages from AmbitionBox[www.ambitionbox.com]
